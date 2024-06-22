@@ -1,8 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Guros Movies - PruebaTecnicaFront
 
-## Getting Started
+Este es un proyecto [Next.js](https://nextjs.org/) iniciado con [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-First, run the development server:
+Para correr un proyecto de Next.js localmente de manera efectiva, aquí tienes los pasos a seguir:
+
+## Instalación de Node.js y npm:
+
+Asegúrate de tener Node.js instalado en tu computadora. Next.js utiliza npm (o yarn) para gestionar las dependencias del proyecto.
+
+## Configuración del entorno de desarrollo:
+
+### Instalación de Next.js:
+
+Utiliza npm para instalar Next.js globalmente o como una dependencia local en tu proyecto.
+
+```bash
+npm install next
+```
+
+## Empezando
+
+Primero, ejecute el servidor de desarrollo:
 
 ```bash
 npm run dev
@@ -14,23 +32,16 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) con su navegador para ver el resultado.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Este proyecto utiliza [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) para optimizar y cargar automáticamente Inter, una fuente personalizada de Google.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Comentarios
 
-## Learn More
+Equipo de reclutamiento,
 
-To learn more about Next.js, take a look at the following resources:
+Como mencioné durante nuestra primera entrevista, mi experiencia con TailwindCSS es limitada, razón por la cual el diseño responsivo en la versión móvil aún presenta algunos detalles que requieren ser pulidos. No obstante, quiero asegurarles que estoy comprometido a continuar aprendiendo más sobre TailwindCSS y perfeccionar mis habilidades en diseño responsivo.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Agradezco la oportunidad de mejorar y estoy dispuesto a invertir el tiempo necesario para alcanzar los estándares requeridos.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Rodrigo Lopez - Desarrollador Frontend
