@@ -26,7 +26,7 @@ const CardMovie: React.FC<CardMovieProps> = ({ onOpenModal }) => {
                     </div>
                 </div>
             </section>
-            <figure className="col-span-9">
+            <figure className="col-span-3">
                 <img className="h-full w-full object-cover" src="/spiderman.png" alt="Spider-Man" style={{ height: '275px' }}></img>
             </figure>
         </div>
